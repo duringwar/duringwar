@@ -19,7 +19,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 </div>
 
----
+
 
 # Tech Stack
 
@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,git,github,vscode,gcp&theme=dark" />
 </div>
 
----
+
 
 # Activity
 
@@ -45,7 +45,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duringwar&theme=github_dark" width="100%" />
 </div>
 
----
+
 
 # Currently
 
@@ -58,13 +58,13 @@ Creating my future
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
----
+
 
 <div align="center">
 
